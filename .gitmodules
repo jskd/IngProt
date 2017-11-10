@@ -1,0 +1,3 @@
+[submodule "test-passif-dpi-pop"]
+	path = test-passif-dpi-pop
+	url = git@github.com:jskd/test-passif-dpi-pop.git
